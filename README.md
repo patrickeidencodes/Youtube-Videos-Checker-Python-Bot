@@ -25,7 +25,7 @@ To set up and run the project locally, follow these steps:
 
 1. Clone the project:
    ```bash
-   git clone [https://github.com/your-account/your-repo.git](https://github.com/patrickeidencodes/limit_youtube_videos.git)
+   git clone https://github.com/patrickeidencodes/Youtube-Videos-Checker-Python-Bot.git
    ```
 2. Run the bot:
    ```bash
